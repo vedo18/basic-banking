@@ -1,0 +1,145 @@
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
+.main{
+  background-color: #1f1f1f;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 91vh;
+}
+.mainBody{
+  position:absolute;
+  width:100%;
+  height: 91%;  
+}
+.bg-dark-nav{
+  background-color:#FF4331!important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.753)!important;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: rgb(255, 255, 255)!important;
+}
+
+.card-bg{
+  background-color: #CAD5E2;
+}
+
+.btn-bg{
+  background-color:#50DBB4;
+}
+
+.btn-dark {
+  background-color: #000000;
+  border-color: #000000;
+  color: rgb(255, 255, 255);
+}
+
+h1.head1{
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.main{
+  background-image: url('https://wallpaperim.net/_data/i/upload/2014/07/26/20140726113203-b3b73999-la.jpg');
+  background-repeat: no-repeat;
+}
+.add-form-table {
+  padding-top: 2%;
+  color: indianred;
+  text-align: center;
+  background-color: #50DBB4;
+}
+
+.alltransactions {
+  background-image: url();
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 91vh;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.transfer{
+  background-image: url();
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 91vh;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#allaccount {
+  background-image: url();
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 91vh;
+}
+
+.transfer-money-form{
+  background: url();
+  height: 91vh;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.form{
+  margin-top: 40px;
+}
+.form-control{
+  width:50%!important;
+  font-size: 1.2rem;
+}
+label{
+  font-size: 1.2rem;
+}
+.submit-btn{
+  padding-left: 15%;
+}
+.card-width{
+  width: 390px;
+  margin-right: 500px;
+}
+.text{
+  font-weight: bolder;
+  color: blanchedalmond;
+}
+
+.thead-bg{
+  background-color:#FF6263;
+}
+
+
+.accounts-bg{
+  background-color: #E1A2B8;
+}
+
+.transaction-bg{
+  background-color:#E1A2B8 ;
+}
+
+.form-bg{
+background-image: url('https://images.unsplash.com/photo-1538356343135-65849f66b4a1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=752&q=80');
+background-repeat: no-repeat;
+
+}
+
+.text-bg{
+  font-style: italic;
+  color: #E83A59;
+  font-weight: bold;
+}
+
+.t-bg{
+  color:#D31A50;
+  font-style: italic;
+
+}
